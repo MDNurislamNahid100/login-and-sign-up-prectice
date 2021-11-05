@@ -1,0 +1,108 @@
+body{
+    margin:0;
+    padding:0;
+    background-color:#1B4F72;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sign-up{
+    height:550px;
+    width:400px;
+    margin:auto;
+    border:3px solid black;
+    background-color:#48C9B0  ;
+    margin-top:40px;
+    border-radius: 10px;
+}
+h1{
+    text-align:center;
+    font-size:30px;
+    padding:0 5px;
+    margin:5px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1:hover{
+    color:#E74C3C;
+    cursor: context-menu;
+}
+hr{
+    width:100px;
+    height:1px;
+    margin-top:0;
+    background-color:#E74C3C ;
+    text-align: center;
+}
+h3{
+    text-align:center;
+    font-size:15px;
+    padding:0 5px;
+    margin:5px;
+    color:#212F3D;
+}
+.form-item{
+    text-align:left;
+    margin-left:20px;
+    color:#000 ;
+    font-weight:600;
+    padding:3px;
+}
+.input-item{
+    border:2px solid black;
+    padding:0;
+    height:25px;
+    width:280px;
+    border-radius:8px;
+}
+.nahid{
+    width:400px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.submit{
+    margin:auto;
+    padding:5px;
+    width:150px;
+    border-radius:10px;
+    font-size:20px;
+    font-weight:bold;
+    font-family:sans-serif;
+    background-color:#17202A;
+    color:#F2F3F4 ;
+}
+.submit:hover{
+    background-color:#3498DB ;
+    cursor: pointer;
+}
+.submit-1{
+    margin:auto;
+    padding:5px;
+    width:150px;
+    border-radius:10px;
+    font-size:20px;
+    font-weight:bold;
+    font-family:sans-serif;
+    background-color:#3498DB ;
+    color:#F2F3F4 ;
+}
+.submit-1:hover{
+    background-color:#17202A;
+    cursor: pointer;
+}
+.p{
+    text-align:center;
+    font-size:12px;
+    color:#000;
+    font-weight: 600;
+}
+.policy{
+    color:#E74C3C ;
+    text-decoration: none;
+}
+.p-tag{
+    text-align:center;
+    margin-top:5px;
+    color:#fff;
+}
+.algor-tag{
+    text-decoration:none;
+    color:#E74C3C ;
+}
